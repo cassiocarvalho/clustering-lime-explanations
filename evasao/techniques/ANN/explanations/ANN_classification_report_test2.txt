@@ -1,0 +1,15 @@
+
+ANN Report
+
+
+
+ANN classification_report test2:
+
+              precision    recall  f1-score   support
+
+           0       0.84      0.89      0.86      1788
+           1       0.80      0.72      0.75      1103
+
+    accuracy                           0.82      2891
+   macro avg       0.82      0.80      0.81      2891
+weighted avg       0.82      0.82      0.82      2891

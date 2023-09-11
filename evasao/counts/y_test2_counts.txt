@@ -1,0 +1,4 @@
+Total de amostras do conjunto de teste 2. Classe 0 (Formado) e 1 (Evadido)
+0    1788
+1    1103
+Name: target, dtype: int64

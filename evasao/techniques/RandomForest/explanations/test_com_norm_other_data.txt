@@ -1,0 +1,73 @@
+{
+  "categorical_names": [
+    "cor_code_lim_inf",
+    "cor_code_lim_sup",
+    "estado_civil_code_lim_inf",
+    "estado_civil_code_lim_sup",
+    "area_fundamental_code_lim_inf",
+    "area_fundamental_code_lim_sup",
+    "sexo_code_lim_inf",
+    "sexo_code_lim_sup",
+    "flg_publica_code_lim_inf",
+    "flg_publica_code_lim_sup",
+    "codigo_sisu_code_lim_inf",
+    "codigo_sisu_code_lim_sup",
+    "nivel_superior_code_lim_inf",
+    "nivel_superior_code_lim_sup",
+    "turno_code_lim_inf",
+    "turno_code_lim_sup"
+  ],
+  "dictionary": {
+    "sexo_code": {
+      "0": "F",
+      "1": "M"
+    },
+    "cor_code": {
+      "0": "AMARELA",
+      "1": "BRANCA",
+      "2": "IND\u00cdGENA",
+      "3": "N\u00c3O QUERO DECLARAR",
+      "4": "PARDA",
+      "5": "PRETA"
+    },
+    "estado_civil_code": {
+      "0": "CASADO",
+      "1": "DIVORCIADO",
+      "2": "OUTROS",
+      "3": "SEPARADO JUDICIALMENTE",
+      "4": "SOLTEIRO",
+      "5": "VIUVO"
+    },
+    "codigo_sisu_code": {
+      "0": "AC",
+      "1": "L01",
+      "2": "L02",
+      "3": "L05",
+      "4": "L06"
+    },
+    "flg_publica_code": {
+      "0": "N",
+      "1": "S",
+      "2": "V"
+    },
+    "nivel_superior_code": {
+      "0": "N",
+      "1": "S"
+    },
+    "turno_code": {
+      "0": "INTEGRAL",
+      "1": "INTEGRAL (MATUTINO+VESPERTINO)",
+      "2": "INTEGRAL (VESPERTINO+NOTURNO)",
+      "3": "MATUTINO",
+      "4": "NOTURNO",
+      "5": "VESPERTINO"
+    },
+    "area_fundamental_code": {
+      "0": "Ci\u00eancias Agr\u00e1rias",
+      "1": "Ci\u00eancias Exatas e Tecnologia",
+      "2": "Ci\u00eancias da Sa\u00fade e Biol\u00f3gicas",
+      "3": "Filosofia e Ci\u00eancias Humanas",
+      "4": "Letras e Artes"
+    }
+  }
+}

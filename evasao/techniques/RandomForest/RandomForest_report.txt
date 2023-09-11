@@ -1,0 +1,30 @@
+
+RandomForest Report
+
+RandomForest cv_results:
+
+{'mean_fit_time': array([8.1712676]), 'std_fit_time': array([1.42749386]), 'mean_score_time': array([0.10405087]), 'std_score_time': array([0.03406198]), 'param_model__random_state': masked_array(data=[1],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_fs__k': masked_array(data=['all'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'model__random_state': 1, 'fs__k': 'all'}], 'split0_test_score': array([0.85279608]), 'split1_test_score': array([0.85931029]), 'split2_test_score': array([0.85092346]), 'split3_test_score': array([0.85645967]), 'split4_test_score': array([0.86202368]), 'split5_test_score': array([0.86576718]), 'split6_test_score': array([0.86847015]), 'split7_test_score': array([0.85634328]), 'split8_test_score': array([0.87126866]), 'split9_test_score': array([0.87126866]), 'mean_test_score': array([0.86146311]), 'std_test_score': array([0.00708745]), 'rank_test_score': array([1], dtype=int32)}
+
+
+RandomForest Report no conjunto de teste: 
+
+RandomForest balanced_accuracy_score:0.8012088413296189
+
+RandomForest accuracy_score:0.8211072664359862
+
+RandomForest classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.84      0.89      0.86      1787
+           1       0.79      0.72      0.75      1103
+
+    accuracy                           0.82      2890
+   macro avg       0.81      0.80      0.81      2890
+weighted avg       0.82      0.82      0.82      2890

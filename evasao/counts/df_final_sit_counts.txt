@@ -1,0 +1,11 @@
+Total de amostras para saídas originais
+Formado                8938
+Abandono               3379
+Cancelamento           1088
+Reopção                 847
+Transferido             182
+Desligado                13
+Jubilado                  3
+Desligado PEC-G           1
+Reopção Compulsória       1
+Name: situacao, dtype: int64

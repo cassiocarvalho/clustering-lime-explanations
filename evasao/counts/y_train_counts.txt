@@ -1,0 +1,4 @@
+Total de amostras do conjunto de treino antes do balanceamento SMOTE. Classe 0 (Formado) e 1 (Evadido)
+0    5363
+1    3308
+Name: target, dtype: int64

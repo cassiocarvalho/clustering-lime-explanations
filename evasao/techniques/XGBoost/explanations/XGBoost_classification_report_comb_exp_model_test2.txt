@@ -1,0 +1,15 @@
+
+XGBoost Report
+
+
+
+XGBoost classification_report test2 pelas explicações iguais ao modelo:
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89      1375
+           1       0.86      0.79      0.82       899
+
+    accuracy                           0.87      2274
+   macro avg       0.86      0.85      0.86      2274
+weighted avg       0.87      0.87      0.87      2274

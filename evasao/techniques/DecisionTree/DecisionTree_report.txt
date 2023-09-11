@@ -1,0 +1,30 @@
+
+DecisionTree Report
+
+DecisionTree cv_results:
+
+{'mean_fit_time': array([0.53887293]), 'std_fit_time': array([0.24509558]), 'mean_score_time': array([0.00731037]), 'std_score_time': array([0.0042768]), 'param_model__random_state': masked_array(data=[1],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_fs__k': masked_array(data=['all'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'model__random_state': 1, 'fs__k': 'all'}], 'split0_test_score': array([0.80802517]), 'split1_test_score': array([0.80151095]), 'split2_test_score': array([0.79868812]), 'split3_test_score': array([0.79218259]), 'split4_test_score': array([0.80336446]), 'split5_test_score': array([0.8042973]), 'split6_test_score': array([0.78544776]), 'split7_test_score': array([0.81063433]), 'split8_test_score': array([0.81436567]), 'split9_test_score': array([0.80783582]), 'mean_test_score': array([0.80263522]), 'std_test_score': array([0.0082613]), 'rank_test_score': array([1], dtype=int32)}
+
+
+DecisionTree Report no conjunto de teste: 
+
+DecisionTree balanced_accuracy_score:0.7289409105045455
+
+DecisionTree accuracy_score:0.7411764705882353
+
+DecisionTree classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.78      0.79      1787
+           1       0.66      0.68      0.67      1103
+
+    accuracy                           0.74      2890
+   macro avg       0.73      0.73      0.73      2890
+weighted avg       0.74      0.74      0.74      2890

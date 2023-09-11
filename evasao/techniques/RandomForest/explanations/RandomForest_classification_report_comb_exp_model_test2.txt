@@ -1,0 +1,15 @@
+
+RandomForest Report
+
+
+
+RandomForest classification_report test2 pelas explicações iguais ao modelo:
+
+              precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89      1558
+           1       0.85      0.76      0.80       951
+
+    accuracy                           0.86      2509
+   macro avg       0.85      0.84      0.85      2509
+weighted avg       0.86      0.86      0.86      2509

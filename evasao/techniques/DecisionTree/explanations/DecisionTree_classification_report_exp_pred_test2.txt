@@ -1,0 +1,15 @@
+
+DecisionTree Report
+
+
+
+DecisionTree classification_report test2 pelas explicações:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.93      0.79      1788
+           1       0.73      0.29      0.42      1103
+
+    accuracy                           0.69      2891
+   macro avg       0.71      0.61      0.60      2891
+weighted avg       0.70      0.69      0.65      2891

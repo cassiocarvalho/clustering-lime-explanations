@@ -1,0 +1,27 @@
+
+XGBoost Report
+
+XGBoost cv_results:
+
+{'mean_fit_time': array([6.22209356]), 'std_fit_time': array([0.93226724]), 'mean_score_time': array([0.01352932]), 'std_score_time': array([0.00439433]), 'param_fs__k': masked_array(data=['all'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'fs__k': 'all'}], 'split0_test_score': array([0.86210706]), 'split1_test_score': array([0.87049042]), 'split2_test_score': array([0.85464959]), 'split3_test_score': array([0.85832187]), 'split4_test_score': array([0.86203584]), 'split5_test_score': array([0.87788189]), 'split6_test_score': array([0.87126866]), 'split7_test_score': array([0.8619403]), 'split8_test_score': array([0.875]), 'split9_test_score': array([0.87686567]), 'mean_test_score': array([0.86705613]), 'std_test_score': array([0.00782398]), 'rank_test_score': array([1], dtype=int32)}
+
+
+XGBoost Report no conjunto de teste: 
+
+XGBoost balanced_accuracy_score:0.8118584356344121
+
+XGBoost accuracy_score:0.8314878892733564
+
+XGBoost classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.84      0.89      0.87      1787
+           1       0.81      0.73      0.77      1103
+
+    accuracy                           0.83      2890
+   macro avg       0.83      0.81      0.82      2890
+weighted avg       0.83      0.83      0.83      2890
