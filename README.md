@@ -1,5 +1,7 @@
 
-Este repositório disponibiliza arquivos referentes aos experimentos do artigo [**Avaliação da interpretabilidade de modelos por meio da clusterização de explicações no contexto da predição de evasão no ensino superior**](https://cbie.sbc.org.br/2023/anais-do-evento/), publicado no Simpósio Brasileiro de Informática na Educação (SBIE) 2023.
+Este repositório disponibiliza arquivos referentes aos experimentos do artigo [**Avaliação da interpretabilidade de modelos por meio da clusterização de explicações no contexto da predição de evasão no ensino superior**](https://sol.sbc.org.br/index.php/sbie/article/view/26746), publicado no Simpósio Brasileiro de Informática na Educação (SBIE) 2023.
+
+https://doi.org/10.5753/sbie.2023.234435
 
 ## Avaliação da interpretabilidade de modelos por meio da clusterização de explicações no contexto da predição de evasão no ensino superior
 
